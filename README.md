@@ -1,3 +1,5 @@
+[![Demo](https://img.youtube.com/vi/0p2i6cNskoo/0.jpg)](https://www.youtube.com/watch?v=0p2i6cNskoo)
+
 # inav-opentx-sounds
 
 This sound pack is for some of the modes found in INAV (https://github.com/iNavFlight) and can be used with OpenTX (https://github.com/opentx).
