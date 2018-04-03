@@ -19,7 +19,7 @@ inav09 - returning to home
 
 ## How to make more sounds
 
-Sounds were synthesized using https://text-to-speech-demo.ng.bluemix.net/ and ```American English (en-US): Allison```.  Use the below in ```Voice Transformation SSML```, press Speak to test and the download for the mp3.
+Sounds were synthesized using https://text-to-speech-demo.ng.bluemix.net/ and ```American English (en-US): Allison```.  Use the below in ```Voice Transformation SSML```, press Speak to test and Download for the mp3.
 
 ```
 <voice-transformation type="Custom" breathiness="90%">
