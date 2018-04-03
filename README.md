@@ -2,7 +2,7 @@
 
 This sound pack is for some of the modes found in INAV (https://github.com/iNavFlight) and can be used with OpenTX (https://github.com/opentx).
 
-Below is an index of each wav.
+Below is an index of each wav.  Feel free to open an issue/pull if you would like to request a new sound.
 
 ```
 inav00 - armed
