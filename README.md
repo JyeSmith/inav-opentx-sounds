@@ -17,6 +17,10 @@ inav08 - way point mission started
 inav09 - returning to home
 ```
 
+## Download link
+
+https://github.com/JyeSmith/inav-opentx-sounds/archive/master.zip
+
 ## How to make more sounds
 
 Sounds were synthesized using https://text-to-speech-demo.ng.bluemix.net/ and ```American English (en-US): Allison```.  Use the below in ```Voice Transformation SSML```, press Speak to test and Download for the mp3.
